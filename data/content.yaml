@@ -1,7 +1,7 @@
 BasicInfo:
   FirstName: Gisele
   LastName: Marteganha
-  Photo: img/avatar2.jpeg
+  Photo: img/avatar.jpeg
   Contacts:
     - Icon: fas fa-phone
       Info: +55 051 99243 6011
