@@ -61,27 +61,23 @@ Education:
     Date: 2016 - 2020
 
 Skills:
-  - Family: Categoria 1
+  - Family: Microsoft
     Items:
-      - Tag 1
-      - Tag 2
-      - Tag 3
-  - Family: Categoria 2
+      - Word
+      - Excel
+      - Power Point
+  - Family: Google
     Items:
-      - Tag 1
-      - Tag 2
-      - Tag 3
-  - Family: Categoria 3
+      - Sheets
+      - Docs
+      - Presentations
+  - Family: Adobe
     Items:
-      - Tag 1
-      - Tag 2
-      - Tag 3
-  - Family: Categioria 4
+      - Photoshop
+  - Family: Ferramentas online
     Items:
-      - Tag 1
-      - Tag 2
-      - Tag 3
-
+      - Canvas
+      - Powtoon
 Languages:
   - Name: Portguês
     Level: Nativo
