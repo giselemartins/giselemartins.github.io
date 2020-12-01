@@ -1,0 +1,95 @@
+BasicInfo:
+  FirstName: Gisele
+  LastName: Marteganha
+  Photo: img/avatar2.jpeg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +55 051 99243 6011
+    - Icon: fas fa-envelope
+      Info: gmarteganha@gmail.com
+    - Icon: fas fa-map-marker-alt
+      Info: Porto Alegre
+
+Profile: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+Experience:
+  - Employer: Museu de História da Medicina do Rio Grande do Sul
+    Place: Porto Alegre, RS
+    Positions:
+      - Title: Estagiária Setor Educativo
+        Date: Dez 2018 - Atual
+        Details:
+          - Atendimento ao público e loja de artigos
+          - Mediação  de salas expositivas com alunos de ensino fundamental, ensino médio, grupos de cursos técnicos e de graduação
+          - Auxiliar do setor educativo do museu atuando no desenvolvimento e aplicação de atividades pedagógicas
+          - Higienização de acervo
+          - Pesquisa de referências para exposições
+          - Apresentação de práticas realizadas pela instituição em simpósios
+          - Exposições fora do espaço físico do museu
+        Badges: ['Tag 1', 'Tag 2', 'Tag 3', 'Tag 4', 'Tag 5']
+
+  - Employer: Colégio Leonardo da Vinci - Beta
+    Place: Porto Alegre, RS
+    Positions:
+      - Title: Auxiliar de Disciplina
+        Date: Abr 2017 - Nov 2018
+        Details:
+          - Atendimento a toda comunidade escolar
+          - Auxiliar as crianças do Ensino Fundamental em todo turno escolar
+          - Recepção aos pais
+          - Tarefas/substituição de professores
+        Badges: ['Tag 1', 'Tag 2', 'Tag 3', 'Tag 4', 'Tag 5']
+
+  - Employer: Cirurgia Plástica - Hospital São Lucas da PUCRS
+    Place: Porto Alegre, RS
+    Positions:
+      - Title: Jovem Aprendiz Administrativo
+        Date: Mai 2016 - Mai 2017
+        Details:
+          - Atendimento ao público
+          - Contato com clientes internos/externos via telefone e e-mail
+          - Processamento de planilhas/documentos/arquivos
+          - Rotinas administrativas diárias
+        Badges: ['Tag 1', 'Tag 2', 'Tag 3', 'Tag 4', 'Tag 5']
+
+Education:
+  - Course: História - Licenciatura
+    Place: Estácio de Sá
+    Date: 2020 - Atual
+  - Course: História - Licenciatura
+    Place: PUCRS
+    Date: 2016 - 2020
+
+Skills:
+  - Family: Categoria 1
+    Items:
+      - Tag 1
+      - Tag 2
+      - Tag 3
+  - Family: Categoria 2
+    Items:
+      - Tag 1
+      - Tag 2
+      - Tag 3
+  - Family: Categoria 3
+    Items:
+      - Tag 1
+      - Tag 2
+      - Tag 3
+  - Family: Categioria 4
+    Items:
+      - Tag 1
+      - Tag 2
+      - Tag 3
+
+Languages:
+  - Name: Portguês
+    Level: Nativo
+  - Name: Inglês
+    Level: B2
+  - Name: Espanhol
+    Level: B1
+
+Diplomas:
+  - Para Fazer uma Exposição (2020)
+  - Acessibilidade em Museus (2020)

@@ -1,0 +1,15 @@
+baseURL = "https://giselemartins.github.io/"
+languageCode = "pt-br"
+theme = "almeida-cv"
+title = "Gisele Marteganha"
+publishDir = "./docs/"
+
+[params]
+colorDark = "#666"
+colorLight = "#fff"
+colorPageBackground = "#ddd"
+colorPrimary = "#e3bfb8"
+colorPrimaryText = "#fff"
+colorRightColumnBackground = "#f5f5f5"
+colorSecondary = "#aaa"
+pages = 1
