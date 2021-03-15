@@ -10,7 +10,8 @@ BasicInfo:
     - Icon: fas fa-map-marker-alt
       Info: Porto Alegre
 
-Profile: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Profile: Atualmente aluna do curso de Licenciatura em História pela Universidade Estácio de Sá e de Bacharel em Biblioteconomia pela UFRGS,  23 anos. Possui conhecimento em História, Educação em espaços não-formais, comunicação e divulgação pesquisas na área.
+ Experiência com espaço escolar (anos iniciais, ensino fundamental, médio), atendimento ao público de diferentes idades, mediação de acervo e salas expositivas, realização de pesquisa histórica, desenvolvimento de  atividades psicopedagógicas presenciais e virtuais,, higienização e catalogação de materiais históricos (arquivístico, bibliográfico, tridimensional), conhecimentos em pacote office, Canvas, Powtoon, entre outras ferramentas online.
 
 Experience:
   - Employer: Museu de História da Medicina do Rio Grande do Sul
@@ -26,7 +27,6 @@ Experience:
           - Pesquisa de referências para exposições
           - Apresentação de práticas realizadas pela instituição em simpósios
           - Exposições fora do espaço físico do museu
-        Badges: ['Tag 1', 'Tag 2', 'Tag 3', 'Tag 4', 'Tag 5']
 
   - Employer: Colégio Leonardo da Vinci - Beta
     Place: Porto Alegre, RS
@@ -38,7 +38,6 @@ Experience:
           - Auxiliar as crianças do Ensino Fundamental em todo turno escolar
           - Recepção aos pais
           - Tarefas/substituição de professores
-        Badges: ['Tag 1', 'Tag 2', 'Tag 3', 'Tag 4', 'Tag 5']
 
   - Employer: Cirurgia Plástica - Hospital São Lucas da PUCRS
     Place: Porto Alegre, RS
@@ -50,14 +49,16 @@ Experience:
           - Contato com clientes internos/externos via telefone e e-mail
           - Processamento de planilhas/documentos/arquivos
           - Rotinas administrativas diárias
-        Badges: ['Tag 1', 'Tag 2', 'Tag 3', 'Tag 4', 'Tag 5']
 
 Education:
+  - Course: Biblioteconomia - Bacharelado
+    Place: Universidade Federal do Rio Grande do Sul
+    Date: 2021 - Atual
   - Course: História - Licenciatura
     Place: Estácio de Sá
     Date: 2020 - Atual
   - Course: História - Licenciatura
-    Place: PUCRS
+    Place: Pontifícia Universidade Católica do Rio Grande do Sul
     Date: 2016 - 2020
 
 Skills:
